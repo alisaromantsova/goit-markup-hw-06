@@ -743,8 +743,10 @@ cursor: pointer;
 .agree-input{
    appearance: none;
    position: absolute;
-   top: 15px;
-   left: 8px;
+  width: 10px;
+  height: 10px;
+  top: 12px;
+  left: 5px;
 }
 .agree-input:checked+.agree-label::after{
     opacity: 1;
