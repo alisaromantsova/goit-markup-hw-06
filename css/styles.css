@@ -651,12 +651,12 @@ border-radius: 4px;
 border: 1px solid rgba(33, 33, 33, 0.2);
 outline: none;
 transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
-color: var(--main-color);
+
 }
 .form-label-item:hover .form-input-item,
 .form-label-item:focus .form-input-item{
 border: 1px solid var(--accent-color);
-color: var(--accent-color);
+
 }
 .input-icon{
     position: absolute;
